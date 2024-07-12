@@ -17,15 +17,15 @@ python calculator.py
 ### How to Use the Calculator
 Enter Numbers and Operations:
 
-Click on the buttons to enter numbers (0-9) and the decimal point (.).
-Click on the arithmetic operation buttons (+, -, *, /) to build your expression.
-Clear the Display:
+#### Click on the buttons to enter numbers (0-9) and the decimal point (.).
+#### Click on the arithmetic operation buttons (+, -, *, /) to build your expression.
+### Clear the Display:
 
-Click the C button to clear the current input and start a new calculation.
+#### Click the C button to clear the current input and start a new calculation.
 Calculate the Result:
 
-Click the = button to evaluate the expression and display the result.
-Handle Errors:
+#### Click the = button to evaluate the expression and display the result.
+#### Handle Errors:
 
 The calculator will display error messages for invalid input or division by zero.
 
